@@ -3,4 +3,3 @@
 
 # Docker Compose
 .env
-.env.prod
